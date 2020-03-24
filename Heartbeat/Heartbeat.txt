@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- The identifier that must be unique within the hosting gallery -->
+        <id>Coyote.Monitors.Heartbeat</id>
+
+        <!-- The package version number that is used when resolving dependencies -->
+        <version>1.0.0-CY</version>
+
+        <!-- Authors contain text that appears directly on the gallery -->
+        <authors>HammerTeam</authors>
+
+        <releaseNotes>Heartbeat Package</releaseNotes>
+
+    </metadata>
+</package>
